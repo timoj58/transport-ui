@@ -334,7 +334,7 @@ function Markers({ map }) {
 function App() {
  
 return (
-  <Wrapper apiKey="AIzaSyA_cD3u-WBJaWEhIWX5b2UAlT4BrcvcHnY"
+  <Wrapper apiKey="ADD_YOUR_OWN"
            version="beta"
            libraries={["marker"]}>
         <MyMapComponent center={{ lat: 51.5010, lng: -0.1233 }} zoom={13} />
